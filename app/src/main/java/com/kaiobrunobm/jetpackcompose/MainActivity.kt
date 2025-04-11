@@ -153,7 +153,8 @@ fun ItemList(userName: String) {
         }
 
         Text(
-            text = "8 min ago"
+            text = "8 min ago",
+            fontWeight = FontWeight.Light
         )
     }
 }
